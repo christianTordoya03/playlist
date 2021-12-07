@@ -31,13 +31,18 @@ const songList = [
     },
     {
         title: "Frente a la chimenea(Diego Dibos)",
-        file: "anewbeginning.mp3",
+        file: "frenteChimenea.mp3",
         cover: "7.jpg"
     },
     {
         title: "Campanas sobre campanas(Diego Dibos)",
-        file: "anewbeginning.mp3",
+        file: "campanasDeBelen.mp3",
         cover: "8.jpg"
+    },
+    {
+        title: "Noche de paz(Diego Dibos)",
+        file: "nochedepaz.mp3",
+        cover: "cover.jpg"
     },
 ]
 
